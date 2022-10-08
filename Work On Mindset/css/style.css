@@ -4,7 +4,7 @@
     padding: 0;
 }
 header{
-    background-image: url("/image/background.jpg");
+    background-image: url("https://unsplash.com/photos/u159a2eL6UE");
     min-height: 100vh;
     width: 100%;
     background-size: cover;
